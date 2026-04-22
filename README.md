@@ -21,4 +21,4 @@ Final Price: $3.15
 
 Maximilian Manfred Friedhelm Heß
 
-// I fixed the format on the README file.
+// I fixed the format on the README file Edit added by Josh Hoagland
