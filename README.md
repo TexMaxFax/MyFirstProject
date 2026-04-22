@@ -1,6 +1,6 @@
 # MyFirstProject
 My First Project
-This Application tells the user the price of a coffee after the user chooses the coffee type. It also aks if the user is a member to recieve the calculated discounted prices.
+This Application tells the user the price of a coffee after the user chooses the coffee type. It also asks if the user is a member to recieve the calculated discounted prices.
 ## How to Run
 1. Open the program in your IDE.
 2. Enter the number that is next to your preffered coffee type on the menu.
