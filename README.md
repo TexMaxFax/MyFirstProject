@@ -5,7 +5,7 @@ This Application tells the user the price of a coffee after the user chooses the
 1. Open the program in your IDE.
 2. Enter the number that is next to your preffered coffee type on the menu.
 3. Enter if you are a member.
-4. Recieve your calculted final price.
+4. Recieve your calculated final price.
 
 ## Example Output
 Drink: Espresso
