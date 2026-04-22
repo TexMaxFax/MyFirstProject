@@ -14,4 +14,4 @@ Discount: 10.0 %
 Final Price: $3.15
 
 ## Author
-Maximilian Hess
+Maximilian Manfred Friedhelm Heß
